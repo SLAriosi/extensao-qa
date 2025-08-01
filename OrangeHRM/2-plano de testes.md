@@ -6,8 +6,8 @@
 * **Versão Avaliada**: Demo pública
 * **Ambiente de Testes**: [https://opensource-demo.orangehrmlive.com](https://opensource-demo.orangehrmlive.com)
 * **Tipo de Teste**: Teste Funcional Manual
-* **Data do Documento**: xx/xx/xxxx
-* **Responsável**: Aluno aplicado que ama aprender 
+* **Data do Documento**: 31/07/2025
+* **Responsável**: Lucas Ariosi
 
 ---
 
