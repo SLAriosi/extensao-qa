@@ -22,6 +22,10 @@
 | :-------------------------------------------------------------- |
 | O candidato deve ser exibido corretamente na lista após o cadastro. |
 
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| https://jam.dev/c/bf762f91-b1d1-48a8-b121-b8ff0811fdfe          |
+
 ---
 
 ### Caso de Teste 02: Tentar adicionar candidato sem preencher campos obrigatórios.
@@ -45,6 +49,10 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | Os campos obrigatórios devem ser validados com mensagens de erro. |
+
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| https://jam.dev/c/f6da229e-bef5-472c-bce9-a71ac728fb30?startFrom=6.88          |
 
 ---
 
