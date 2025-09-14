@@ -21,6 +21,10 @@
 | :-------------------------------------------------------------- |
 | O relatório deve apresentar os dados corretos conforme os filtros aplicados. |
 
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| https://jam.dev/c/952de71d-43ea-47d3-9c28-3bf48acd144b |
+
 ---
 
 ### Caso de Teste 02: Gerar relatório sem selecionar filtros obrigatórios.
@@ -44,6 +48,10 @@
 | :-------------------------------------------------------------- |
 | O sistema deve bloquear a geração do relatório e exibir erro claro. |
 
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| https://jam.dev/c/060b1a84-16d9-4abc-a4d1-8f4870514501 |
+
 ---
 
 ### Caso de Teste 03: Exportar relatório gerado em PDF.
@@ -65,3 +73,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O download do arquivo PDF deve ocorrer com os dados exibidos na tela. |
+
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| Não encontrei onde gerar o Relatório. |
