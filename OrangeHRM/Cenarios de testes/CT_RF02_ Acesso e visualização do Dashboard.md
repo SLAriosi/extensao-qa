@@ -10,6 +10,10 @@
 | :------------------------------------------------------------ |
 | O usuário deve estar autenticado com credenciais válidas.     |
 
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| https://jam.dev/c/7b09fd0b-c738-4519-9ae0-8006e7c3950e          |
+
 | **Passos**                                                        |
 | :---------------------------------------------------------------- |
 | **DADO** que o usuário acessou o sistema com sucesso              |
@@ -43,6 +47,10 @@
 | :-------------------------------------------------------------- |
 | Todos os widgets principais devem ser visíveis e funcionais.     |
 
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| https://jam.dev/c/7b09fd0b-c738-4519-9ae0-8006e7c3950e          |
+
 ---
 
 ### Caso de Teste 03: Acesso ao Dashboard com sessão expirada.
@@ -65,3 +73,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | A sessão expirada deve ser tratada corretamente com redirecionamento. |
+
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| https://jam.dev/c/e8a7cd2d-b566-4f9c-8ed9-a36494939a24?startFrom=12.36          |
