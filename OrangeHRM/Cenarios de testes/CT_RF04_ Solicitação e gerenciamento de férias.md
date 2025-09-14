@@ -78,7 +78,6 @@
 | :-------------------------------------------------------------- |
 | Os status devem refletir corretamente o estado da solicitação.  |
 
-
 | **Teste realizado Evidência**                                   |
 | :-------------------------------------------------------------- |
 | https://jam.dev/c/25627b02-66f8-42a4-9a72-919172fdd9ae          |
