@@ -21,6 +21,10 @@
 | :-------------------------------------------------------------- |
 | O sistema deve confirmar o registro com uma mensagem e salvar o horário. |
 
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| https://jam.dev/c/cf5cbde2-90cc-4b03-8fef-c42cb92bbd86 |
+
 ---
 
 ### Caso de Teste 02: Tentar marcar ponto sem horário permitido ou fora do expediente.
@@ -43,6 +47,12 @@
 | :-------------------------------------------------------------- |
 | O sistema deve impedir o registro e apresentar mensagem adequada. |
 
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| https://jam.dev/c/cf5cbde2-90cc-4b03-8fef-c42cb92bbd86 |
+
+Prineiro mostra permitindo e depois não permitindo, aparentemente o não permitido é só quando ele valida que o horário marcado no relógio do site é o horário de agora e agora não é mais permitido bater o ponto.
+
 ---
 
 ### Caso de Teste 03: Consultar registro de ponto anterior.
@@ -64,3 +74,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir corretamente os registros existentes da data informada. |
+
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| https://jam.dev/c/dc071d7e-cc2b-40a0-b8a9-77ae45ed227f |
