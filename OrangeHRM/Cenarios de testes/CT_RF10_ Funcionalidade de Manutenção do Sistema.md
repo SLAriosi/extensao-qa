@@ -21,6 +21,10 @@
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de manutenção e bloquear o acesso às funcionalidades. |
 
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| Não entendi como fazer o teste. |
+
 ---
 
 ### Caso de Teste 02: Acessar o sistema após término da manutenção.
@@ -44,6 +48,10 @@
 | :-------------------------------------------------------------- |
 | O usuário deve ser capaz de acessar o sistema normalmente.      |
 
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| Não entendi como fazer esse. |
+
 ---
 
 ### Caso de Teste 03: Exibir status de manutenção em caso de falha inesperada.
@@ -66,3 +74,7 @@
 | **Critérios de aceitação**                                      |
 | :-------------------------------------------------------------- |
 | O sistema deve exibir uma mensagem clara de falha e manutenção, informando que o sistema está indisponível. |
+
+| **Teste realizado Evidência**                                   |
+| :-------------------------------------------------------------- |
+| Não entendi como fazer esse aqui|
